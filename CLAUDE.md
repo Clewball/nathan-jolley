@@ -4,6 +4,10 @@
 
 Personal portfolio site. Currently a blank starter; this file will grow as the site does.
 
+- Live: https://nathan-jolley.vercel.app
+- Repo: https://github.com/Clewball/nathan-jolley
+- Vercel project: `nathan-jolley` (team: clewball's projects)
+
 ## Stack
 
 - Next.js 16 (App Router) + React 19
